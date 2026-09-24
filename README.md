@@ -1,149 +1,170 @@
-# Hi, I'm Gali Dinesh Reddy 👋
+<div align="center">
 
-### Computer Science Graduate | AI & Generative AI | Software Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C9A7&height=180&section=header&text=Gali%20Dinesh%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-I’m a Computer Science and Engineering graduate specializing in **Artificial Intelligence and Machine Learning**, with a strong foundation in **Java, Python, C, JavaScript, and Data Structures & Algorithms**. I enjoy building practical software projects and exploring AI-powered applications involving document processing, retrieval, workflow orchestration, and backend APIs.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+GenAI+Developer;Java+%7C+Python+%7C+DSA+Enthusiast;Building+practical+intelligent+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-reddy-gali)
-[![GitHub](https://img.shields.io/badge/GitHub-Dinesh--Reddy10-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dinesh-Reddy10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/galidineshreddy/)
+<p>
+  <a href="https://github.com/Dinesh-Reddy10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/dinesh-reddy-gali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/galidineshreddy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:galidineshreddy143@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=Dinesh-Reddy10&style=flat-square&color=00BFFF&label=Profile+Visitors" alt="Profile visitors" />
 
-- 🎓 **B.Tech in Computer Science and Engineering (AI & ML)** — Mohan Babu University, 2022–2026
-- 📈 Achieved a **9.15 CGPA**
-- 🧩 Solved **200+ LeetCode problems**, with a strong focus on Java and DSA fundamentals
-- 🤖 Building toward a future in **software engineering** and **AI engineering**
-- 🔧 Interested in **backend/API development**, **intelligent automation**, and practical **GenAI systems**
+</div>
 
-## What I Build
+## 👋 A little about me
 
-I enjoy working on projects that combine software fundamentals with applied AI, including:
+I’m a **Computer Science and Engineering graduate specializing in Artificial Intelligence & Machine Learning**. I enjoy combining strong programming fundamentals with practical AI projects—from Java and SQL applications to multilingual document processing, RAG pipelines, and agentic workflows.
 
-- AI-assisted document and invoice processing
-- Retrieval-Augmented Generation and document Q&A
-- Agentic workflows and tool-based applications
-- REST APIs and backend services
-- Database-backed Java applications
-- Web interfaces and enterprise automation concepts
+```java
+class DineshReddy {
+    String focus = "Software Engineering + AI Engineering";
+    String[] languages = {"Java", "Python", "C", "JavaScript"};
+    String currentlyLearning = "GenAI, RAG, LangGraph & backend APIs";
+    String mindset = "Learn • Build • Improve • Repeat";
+}
+```
 
-## Technical Skills
+<div align="center">
 
-### Languages
+| 🎓 Education | 📊 CGPA | 🧩 Problem Solving | 🤖 Focus |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE (AI & ML) | **9.15** | **200+** LeetCode problems | AI & GenAI |
 
-`Java` `Python` `C` `JavaScript`
+</div>
 
-### AI / Machine Learning
+## 🛠️ My toolbox
 
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM Applications`
+<div align="center">
 
-### GenAI & AI Engineering
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql,git,github,vscode&perline=10" alt="Languages and tools" />
 
-`LangChain` `LangGraph` `RAG` `FAISS` `Embeddings` `Transformers` `MarianMT` `LiteLLM` `Prompt Engineering`
+<br><br>
 
-### Backend & Web
+<img src="https://skillicons.dev/icons?i=fastapi,opencv,tensorflow,docker&perline=10" alt="Backend and AI tools" />
 
-`FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `HTML` `CSS` `JavaScript` `Streamlit`
+</div>
 
-### Databases & Fundamentals
+### 🧠 AI & software interests
 
-`MySQL` `SQL` `DBMS` `OOP` `Data Structures` `Algorithms` `Operating Systems` `Computer Networks`
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLM Applications` · `LangChain` · `LangGraph` · `RAG` · `FAISS` · `Transformers` · `FastAPI` · `Streamlit` · `ServiceNow Automation`
 
-### Tools & Platforms
+## 🚀 Featured builds
 
-`Git` `GitHub` `VS Code` `ServiceNow`
+<table>
+<tr>
+<td width="50%">
 
-## Featured Projects
+### 🧾 [AI Invoice Auditor](https://github.com/Dinesh-Reddy10/AI-Invoice-Auditor)
 
-### [AI Invoice Auditor](https://github.com/Dinesh-Reddy10/AI-Invoice-Auditor)
+A personal AI engineering project for multilingual invoice extraction, validation, and Q&A.
 
-A personal AI engineering project for multilingual invoice extraction, validation, and question answering.
+**Highlights**
+- PDF/image extraction and OCR
+- Hindi, Telugu, Kannada and Tamil workflows
+- LangGraph orchestration
+- FastAPI mock ERP + FAISS RAG
 
-- Processes PDF and image invoices using text extraction and OCR
-- Supports English, Hindi, Telugu, Kannada, and Tamil invoice workflows
-- Uses Pydantic models, deterministic validation, and a FastAPI mock ERP service
-- Orchestrates validation with LangGraph and enables FAISS-based RAG Q&A through Streamlit
+`Python` `LangGraph` `FAISS` `Streamlit`
 
-**Built with:** Python, Streamlit, FastAPI, LangGraph, LangChain, FAISS, Pydantic, Transformers, PyMuPDF, and Pytesseract
+</td>
+<td width="50%">
 
-### [School Management System](https://github.com/Dinesh-Reddy10/School-Management-System)
+### 🏫 [School Management System](https://github.com/Dinesh-Reddy10/School-Management-System)
 
-A Java and MySQL application that demonstrates database-backed application development through a command-line interface.
+A database-backed Java application for managing students, attendance, marks, fees and report cards.
 
-- Manages students, attendance, marks, fees, and report cards
-- Uses JDBC for MySQL connectivity and persistent data storage
-- Demonstrates CRUD operations, structured Java classes, and SQL fundamentals
+**Highlights**
+- JDBC and MySQL connectivity
+- CRUD operations
+- Structured Java classes
+- SQL and DBMS fundamentals
 
-**Built with:** Java, JDBC, and MySQL
+`Java` `JDBC` `MySQL`
 
-### [Farm2Home Website](https://github.com/Dinesh-Reddy10/Farm2Home-Website)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-A responsive frontend concept for helping users explore farm products and manage a shopping experience.
+### 🌾 [Farm2Home Website](https://github.com/Dinesh-Reddy10/Farm2Home-Website)
 
-- Includes product browsing, cart interactions, login and registration interfaces
-- Includes farmer and customer dashboard pages
-- Demonstrates responsive layouts and client-side interactivity
+A responsive frontend concept for browsing farm products and managing a shopping experience.
 
-**Built with:** HTML, CSS, and JavaScript
+`HTML` `CSS` `JavaScript`
 
-### [ServiceNow Leave Management System](https://github.com/Dinesh-Reddy10/ServiceNow-Leave-Management-System)
+</td>
+<td width="50%">
 
-A ServiceNow application demonstrating leave request validation, approval flow concepts, balance visibility, and balance deduction after approval.
+### ⚙️ [ServiceNow Leave Management](https://github.com/Dinesh-Reddy10/ServiceNow-Leave-Management-System)
 
-**Focus areas:** Client Scripts, GlideAjax, Business Rules, workflow logic, and enterprise automation
+A ServiceNow application exploring leave validation, approvals, balance visibility and automation.
 
-## Certifications
+`Client Scripts` `GlideAjax` `Business Rules`
 
-- **ServiceNow Certified System Administrator (CSA)**
-- **ServiceNow Certified Application Developer (CAD)**
+</td>
+</tr>
+</table>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ServiceNow-CSA-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
+<img src="https://img.shields.io/badge/ServiceNow-CAD-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
+<img src="https://img.shields.io/badge/IBM-SkillsBuild%20GenAI-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" />
+<img src="https://img.shields.io/badge/SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL HackerRank" />
+
+</div>
+
+<details>
+<summary>✨ More credentials</summary>
+
 - Java certification
-- SQL HackerRank certification
 - Prompt Engineering — CSRBOX Foundation
-- Generative AI & AI Fundamentals — IBM SkillsBuild
 - Career Edge — Young Professional, TCS iON
 - MePro / Pearson Expert-Level Proficiency Badge
 
-## Problem Solving
+</details>
 
-I use problem solving to strengthen my programming fundamentals and algorithmic thinking.
+## 🎯 What I’m learning now
 
-- **200+ LeetCode problems solved**
-- Primary practice languages: **Java and C**
-- Focus areas: data structures, algorithms, object-oriented programming, and logical problem solving
-
-## Current Learning Focus
-
-- Designing practical AI and GenAI applications
-- Improving backend and REST API development skills
-- Exploring agentic workflows, RAG, and LLM integrations
+- Building practical AI and Generative AI applications
+- Improving backend and REST API development
+- Exploring agentic workflows, RAG and LLM integrations
 - Strengthening machine learning and deep learning fundamentals
-- Building reliable, maintainable software through hands-on projects
+- Writing reliable, maintainable software through hands-on projects
 
-## Career Interests
+## 📈 GitHub activity
 
-I’m interested in opportunities related to:
+<div align="center">
 
-- Software Engineering
-- AI Engineering
-- Machine Learning Engineering
-- Generative AI Engineering
-- Backend Development
-- ServiceNow Development and Enterprise Automation
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh-Reddy10&show_icons=true&hide_border=true&border_radius=12&title_color=00BFFF&icon_color=00C9A7&text_color=9CA3AF&bg_color=0D1117" alt="Dinesh's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Reddy10&layout=compact&hide_border=true&border_radius=12&title_color=00BFFF&text_color=9CA3AF&bg_color=0D1117" alt="Top languages" />
 
-My goal is to grow into a strong software/AI engineer who can build useful, production-oriented intelligent applications.
+<br>
 
-## Education
+<img src="https://streak-stats.demolab.com?user=Dinesh-Reddy10&hide_border=true&border_radius=12&background=0D1117&ring=00BFFF&fire=FF6B6B&currStreakLabel=00C9A7&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub streak" />
 
-**B.Tech — Computer Science and Engineering (Artificial Intelligence & Machine Learning)**  
-Mohan Babu University · **August 2022 – May 2026** · **9.15 CGPA**
+</div>
 
-## Let's Connect
+## 🧭 My direction
 
-- LinkedIn: [Dinesh Reddy Gali](https://www.linkedin.com/in/dinesh-reddy-gali)
-- LeetCode: [galidineshreddy](https://leetcode.com/u/galidineshreddy/)
-- Email: [galidineshreddy143@gmail.com](mailto:galidineshreddy143@gmail.com)
-- GitHub: [Dinesh-Reddy10](https://github.com/Dinesh-Reddy10)
+I’m working toward opportunities in **Software Engineering, AI Engineering, Machine Learning, Generative AI, Backend Development, and ServiceNow Development**. My goal is to build useful, production-oriented intelligent applications while continuing to grow one project at a time.
 
----
+## 🤝 Let’s connect
 
-> Strong fundamentals, hands-on projects, and continuous growth toward AI engineering.
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dinesh-reddy-gali">LinkedIn</a> ·
+<a href="https://leetcode.com/u/galidineshreddy/">LeetCode</a> ·
+<a href="mailto:galidineshreddy143@gmail.com">Email me</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00BFFF,100:6A5ACD&height=100&section=footer" width="100%" />
+
+</div>
