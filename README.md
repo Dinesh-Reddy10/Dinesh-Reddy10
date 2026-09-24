@@ -2,18 +2,19 @@
 
 ### Computer Science Graduate | AI & Generative AI | Software Development
 
-I’m a Computer Science and Engineering graduate specializing in **Artificial Intelligence and Machine Learning**, with a foundation in **Java, Python, C, JavaScript, and data structures and algorithms**. I build practical software projects and explore AI-powered applications involving document processing, retrieval, workflow orchestration, and backend APIs.
+I’m a Computer Science and Engineering graduate specializing in **Artificial Intelligence and Machine Learning**, with a strong foundation in **Java, Python, C, JavaScript, and Data Structures & Algorithms**. I enjoy building practical software projects and exploring AI-powered applications involving document processing, retrieval, workflow orchestration, and backend APIs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-reddy-gali)
 [![GitHub](https://img.shields.io/badge/GitHub-Dinesh--Reddy10-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dinesh-Reddy10)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/galidineshreddy/)
 
 ## About Me
 
 - 🎓 **B.Tech in Computer Science and Engineering (AI & ML)** — Mohan Babu University, 2022–2026
-- 📈 Graduated with a **9.37 CGPA**
-- 🧩 Solved **200+ LeetCode problems**, primarily using Java and practicing DSA
-- 🤖 Building toward a career in software engineering and AI engineering
-- 🔧 Interested in backend/API development, intelligent automation, and practical GenAI systems
+- 📈 Achieved a **9.37 CGPA**
+- 🧩 Solved **200+ LeetCode problems**, with a strong focus on Java and DSA fundamentals
+- 🤖 Building toward a future in **software engineering** and **AI engineering**
+- 🔧 Interested in **backend/API development**, **intelligent automation**, and practical **GenAI systems**
 
 ## What I Build
 
@@ -21,7 +22,7 @@ I enjoy working on projects that combine software fundamentals with applied AI, 
 
 - AI-assisted document and invoice processing
 - Retrieval-Augmented Generation and document Q&A
-- Agentic workflows and tool-oriented applications
+- Agentic workflows and tool-based applications
 - REST APIs and backend services
 - Database-backed Java applications
 - Web interfaces and enterprise automation concepts
@@ -110,8 +111,6 @@ I use problem solving to strengthen my programming fundamentals and algorithmic 
 - Primary practice languages: **Java and C**
 - Focus areas: data structures, algorithms, object-oriented programming, and logical problem solving
 
-[LeetCode Profile](YOUR_LEETCODE_URL)
-
 ## Current Learning Focus
 
 - Designing practical AI and GenAI applications
@@ -140,10 +139,10 @@ Mohan Babu University · **August 2022 – May 2026** · **9.37 CGPA**
 
 ## Let's Connect
 
-- LinkedIn: [dinesh-reddy-gali](https://www.linkedin.com/in/dinesh-reddy-gali)
-- LeetCode: [Add your public profile URL](YOUR_LEETCODE_URL)
-- Email: [Add a professional public email](YOUR_EMAIL_ADDRESS)
-- Portfolio: [Add your portfolio URL](YOUR_PORTFOLIO_URL)
+- LinkedIn: [Dinesh Reddy Gali](https://www.linkedin.com/in/dinesh-reddy-gali)
+- LeetCode: [galidineshreddy](https://leetcode.com/u/galidineshreddy/)
+- Email: [galidineshreddy143@gmail.com](mailto:galidineshreddy143@gmail.com)
+- GitHub: [Dinesh-Reddy10](https://github.com/Dinesh-Reddy10)
 
 ---
 
