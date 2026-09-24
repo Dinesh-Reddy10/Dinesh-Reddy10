@@ -11,7 +11,7 @@ I’m a Computer Science and Engineering graduate specializing in **Artificial I
 ## About Me
 
 - 🎓 **B.Tech in Computer Science and Engineering (AI & ML)** — Mohan Babu University, 2022–2026
-- 📈 Achieved a **9.37 CGPA**
+- 📈 Achieved a **9.15 CGPA**
 - 🧩 Solved **200+ LeetCode problems**, with a strong focus on Java and DSA fundamentals
 - 🤖 Building toward a future in **software engineering** and **AI engineering**
 - 🔧 Interested in **backend/API development**, **intelligent automation**, and practical **GenAI systems**
@@ -135,7 +135,7 @@ My goal is to grow into a strong software/AI engineer who can build useful, prod
 ## Education
 
 **B.Tech — Computer Science and Engineering (Artificial Intelligence & Machine Learning)**  
-Mohan Babu University · **August 2022 – May 2026** · **9.37 CGPA**
+Mohan Babu University · **August 2022 – May 2026** · **9.15 CGPA**
 
 ## Let's Connect
 
