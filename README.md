@@ -1,81 +1,150 @@
-# Hi, I'm Dinesh Reddy 👋
+# Hi, I'm Gali Dinesh Reddy 👋
 
-Software Engineer with a strong focus on building scalable, reliable, and user-centric applications. I enjoy solving complex problems, learning modern technologies, and turning ideas into production-ready solutions.
+### Computer Science Graduate | AI & Generative AI | Software Development
 
-- 💻 Passionate about software development, backend systems, cloud, and clean architecture
-- 🚀 Interested in building impactful products and improving developer experience
-- 📚 Constantly learning and exploring new technologies
-- 🌍 Open to collaboration, internships, and professional opportunities
+I’m a Computer Science and Engineering graduate specializing in **Artificial Intelligence and Machine Learning**, with a foundation in **Java, Python, C, JavaScript, and data structures and algorithms**. I build practical software projects and explore AI-powered applications involving document processing, retrieval, workflow orchestration, and backend APIs.
 
-## Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-reddy-gali)
+[![GitHub](https://img.shields.io/badge/GitHub-Dinesh--Reddy10-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dinesh-Reddy10)
+
+## About Me
+
+- 🎓 **B.Tech in Computer Science and Engineering (AI & ML)** — Mohan Babu University, 2022–2026
+- 📈 Graduated with a **9.37 CGPA**
+- 🧩 Solved **200+ LeetCode problems**, primarily using Java and practicing DSA
+- 🤖 Building toward a career in software engineering and AI engineering
+- 🔧 Interested in backend/API development, intelligent automation, and practical GenAI systems
+
+## What I Build
+
+I enjoy working on projects that combine software fundamentals with applied AI, including:
+
+- AI-assisted document and invoice processing
+- Retrieval-Augmented Generation and document Q&A
+- Agentic workflows and tool-oriented applications
+- REST APIs and backend services
+- Database-backed Java applications
+- Web interfaces and enterprise automation concepts
+
+## Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`Java` `Python` `C` `JavaScript`
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### AI / Machine Learning
 
-### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLM Applications`
+
+### GenAI & AI Engineering
+
+`LangChain` `LangGraph` `RAG` `FAISS` `Embeddings` `Transformers` `MarianMT` `LiteLLM` `Prompt Engineering`
+
+### Backend & Web
+
+`FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `HTML` `CSS` `JavaScript` `Streamlit`
+
+### Databases & Fundamentals
+
+`MySQL` `SQL` `DBMS` `OOP` `Data Structures` `Algorithms` `Operating Systems` `Computer Networks`
+
+### Tools & Platforms
+
+`Git` `GitHub` `VS Code` `ServiceNow`
 
 ## Featured Projects
 
-### 1. Project Name
-A brief description of the project, the problem it solves, and the technologies used.
+### [AI Invoice Auditor](https://github.com/Dinesh-Reddy10/AI-Invoice-Auditor)
 
-- Built with: React, Node.js, MongoDB
-- Key features: authentication, dashboards, API integrations, deployment
-- [Live Demo](#)
-- [GitHub Repository](#)
+A personal AI engineering project for multilingual invoice extraction, validation, and question answering.
 
-### 2. Project Name
-Another impactful project that showcases your engineering skills.
+- Processes PDF and image invoices using text extraction and OCR
+- Supports English, Hindi, Telugu, Kannada, and Tamil invoice workflows
+- Uses Pydantic models, deterministic validation, and a FastAPI mock ERP service
+- Orchestrates validation with LangGraph and enables FAISS-based RAG Q&A through Streamlit
 
-- Built with: Python, FastAPI, PostgreSQL
-- Key features: data processing, REST APIs, automation, performance optimization
-- [Live Demo](#)
-- [GitHub Repository](#)
+**Built with:** Python, Streamlit, FastAPI, LangGraph, LangChain, FAISS, Pydantic, Transformers, PyMuPDF, and Pytesseract
 
-### 3. Project Name
-Project focused on problem-solving and real-world utility.
+### [School Management System](https://github.com/Dinesh-Reddy10/School-Management-System)
 
-- Built with: JavaScript, Express, MySQL
-- Key features: scalable backend, database design, API logic
-- [Live Demo](#)
-- [GitHub Repository](#)
+A Java and MySQL application that demonstrates database-backed application development through a command-line interface.
 
-## GitHub Stats
+- Manages students, attendance, marks, fees, and report cards
+- Uses JDBC for MySQL connectivity and persistent data storage
+- Demonstrates CRUD operations, structured Java classes, and SQL fundamentals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinesh-Reddy10&show_icons=true&theme=radical)
+**Built with:** Java, JDBC, and MySQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Reddy10&layout=compact&theme=radical)
+### [Farm2Home Website](https://github.com/Dinesh-Reddy10/Farm2Home-Website)
 
-## Currently Working On
-- Building scalable full-stack applications
-- Improving backend architecture and system design skills
-- Exploring cloud deployment and DevOps practices
-- Contributing to open-source or collaborative projects
+A responsive frontend concept for helping users explore farm products and manage a shopping experience.
 
-## Connect with Me
+- Includes product browsing, cart interactions, login and registration interfaces
+- Includes farmer and customer dashboard pages
+- Demonstrates responsive layouts and client-side interactivity
 
-- [LinkedIn](https://www.linkedin.com/in/dinesh-reddy-gali)
-- [Email](mailto:galidineshreddy10@gmail.com)
+**Built with:** HTML, CSS, and JavaScript
 
-> “I enjoy turning ideas into clean, scalable, and useful software solutions.”
+### [ServiceNow Leave Management System](https://github.com/Dinesh-Reddy10/ServiceNow-Leave-Management-System)
+
+A ServiceNow application demonstrating leave request validation, approval flow concepts, balance visibility, and balance deduction after approval.
+
+**Focus areas:** Client Scripts, GlideAjax, Business Rules, workflow logic, and enterprise automation
+
+## Certifications
+
+- **ServiceNow Certified System Administrator (CSA)**
+- **ServiceNow Certified Application Developer (CAD)**
+- Java certification
+- SQL HackerRank certification
+- Prompt Engineering — CSRBOX Foundation
+- Generative AI & AI Fundamentals — IBM SkillsBuild
+- Career Edge — Young Professional, TCS iON
+- MePro / Pearson Expert-Level Proficiency Badge
+
+## Problem Solving
+
+I use problem solving to strengthen my programming fundamentals and algorithmic thinking.
+
+- **200+ LeetCode problems solved**
+- Primary practice languages: **Java and C**
+- Focus areas: data structures, algorithms, object-oriented programming, and logical problem solving
+
+[LeetCode Profile](YOUR_LEETCODE_URL)
+
+## Current Learning Focus
+
+- Designing practical AI and GenAI applications
+- Improving backend and REST API development skills
+- Exploring agentic workflows, RAG, and LLM integrations
+- Strengthening machine learning and deep learning fundamentals
+- Building reliable, maintainable software through hands-on projects
+
+## Career Interests
+
+I’m interested in opportunities related to:
+
+- Software Engineering
+- AI Engineering
+- Machine Learning Engineering
+- Generative AI Engineering
+- Backend Development
+- ServiceNow Development and Enterprise Automation
+
+My goal is to grow into a strong software/AI engineer who can build useful, production-oriented intelligent applications.
+
+## Education
+
+**B.Tech — Computer Science and Engineering (Artificial Intelligence & Machine Learning)**  
+Mohan Babu University · **August 2022 – May 2026** · **9.37 CGPA**
+
+## Let's Connect
+
+- LinkedIn: [dinesh-reddy-gali](https://www.linkedin.com/in/dinesh-reddy-gali)
+- LeetCode: [Add your public profile URL](YOUR_LEETCODE_URL)
+- Email: [Add a professional public email](YOUR_EMAIL_ADDRESS)
+- Portfolio: [Add your portfolio URL](YOUR_PORTFOLIO_URL)
+
+---
+
+> Strong fundamentals, hands-on projects, and continuous growth toward AI engineering.
